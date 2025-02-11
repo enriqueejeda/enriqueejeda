@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Enrique Ejeda
+Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Soy Enrique Ejeda
 =====================================================================================================================================
 
 Developer
@@ -6,9 +6,9 @@ Developer
 
 Soy un entusiasta de la tecnología y pongo en practica todo lo que aprendo y disfruto creando proyectos nuevos.
 
-* 🌍  I'm based in España
-* 🖥️  See my portfolio at [enriqueejeda.github.io](http://enriqueejeda.github.io)
-* ✉️  You can contact me at [enriqueejeda2016@gmail.com](mailto:enriqueejeda2016@gmail.com)
+* 🌍  Vivo en España
+* 🖥️  Visita mi portfolio [enriqueejeda.github.io](http://enriqueejeda.github.io)
+* ✉️  Puedes contactarme en [enriqueejeda2016@gmail.com](mailto:enriqueejeda2016@gmail.com)
 
 ### Skills
 
@@ -18,7 +18,7 @@ Soy un entusiasta de la tecnología y pongo en practica todo lo que aprendo y di
 </p>
 
 
-### Socials
+### Redes Sociales
 
 <p align="left"> <a href="https://www.codepen.io/enriqueejeda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/enriqueejeda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/enriqueejeda" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
