@@ -1,7 +1,5 @@
 <h1 align="center">Hey 👋! Soy Enrique Ejeda (Lyk0s)</h1>
 
----
-
 ### 🖥️ Sobre mí
 
 <div align="center">
@@ -16,8 +14,7 @@
 ```
 
 </div>
-
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph-dark.svg">
