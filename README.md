@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique(0xLyk0s)%20Desarrollador%20FullStack&fontSize=30&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique%20Ejeda%20(0xLyk0s)%20Desarrollador%20FullStack&fontSize=30&animation=fadeIn&fontAlignY=35" width="100%"/>
 </h1>
 
 <p align="center">
@@ -54,8 +54,8 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=enriqueejeda&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 </div>
+
 ---
 ### 🔥 Streak
 
