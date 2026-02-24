@@ -54,7 +54,7 @@
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enrqiueejeda)](https://github.com/LordDashMe/github-contribution-stats/)
+  [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enrqiueejeda)](https://github.com/enriqueejeda/github-contribution-stats/)
 </div>
 
 ---
