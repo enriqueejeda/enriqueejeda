@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Desarrollador%20FullStack&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique(0xLyk0s)%20Desarrollador%20FullStack&fontSize=40&animation=fadeIn&fontAlignY=35" width="100%"/>
 </h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tu-usuario&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/tu-usuario?label=Followers&style=social" alt="GitHub followers"/>
+  <img src="https://komarev.com/ghpvc/?username=enriqueejeda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/enriqueejeda?label=Followers&style=social" alt="GitHub followers"/>
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 🔥 Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriqueejeda&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
 </div>
 
 ---
