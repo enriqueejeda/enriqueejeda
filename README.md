@@ -69,22 +69,13 @@
 
 <div align="center">
 
-```
-__    __  __ _  _  _  _  _    __ _  __ _   __   _  _  __    ____  ____   ___  ____ 
-(  )  (  )(  ( \/ )( \( \/ )  (  / )(  ( \ /  \ / )( \(  )  (  __)(    \ / __)(  __)
-/ (_/\ )( /    /) \/ ( )  (    )  ( /    /(  O )\ /\ // (_/\ ) _)  ) D (( (_ \ ) _) 
-\____/(__)\_)__)\____/(_/\_)  (__\_)\_)__) \__/ (_/\_)\____/(____)(____/ \___/(____)
-
-```
-
-</div>
-
 | 💻 Lo que hago con Linux | 🖥️ Terminal | 🔧 Sistemas |
 |---|---|---|
 | Montar mis propios sistemas personalizados | Me manejo bien | Entiendo cómo funciona |
 | Configurar entornos de desarrollo | Comodidad total | Aprendizaje continuo |
 | Experimentar con distros | Scripting bash | Docker & Nginx |
 
+</div>
 ---
 
 ### 🔐 Ciberseguridad
@@ -119,7 +110,7 @@ __    __  __ _  _  _  _  _    __ _  __ _   __   _  _  __    ____  ____   ___  __
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│  ⭐ Si te gusta lo que hago, no olvides starred mis repos   │
+│  Si te gusta lo que hago, no olvides darle ⭐ a mis repos  │
 └─────────────────────────────────────────────────────────────┘
 ```
 
