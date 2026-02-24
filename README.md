@@ -1,10 +1,4 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique%20Ejeda%20(Lyk0s)%20Desarrollador%20FullStack&fontSize=20&animation=fadeIn&fontAlignY=35" width="100%"/>
-</h1>
-
-###
-
-<img src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/snake.svg" alt="Snake animation" />
+<h1 align="center">Hey 👋! Soy Enrique Ejeda (Lyk0s)</h1>
 
 ---
 
@@ -22,6 +16,14 @@
 ```
 
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
