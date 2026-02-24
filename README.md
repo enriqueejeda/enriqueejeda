@@ -2,112 +2,103 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique%20Ejeda%20(Lyk0s)%20Desarrollador%20FullStack&fontSize=20&animation=fadeIn&fontAlignY=35" width="100%"/>
 </h1>
 
-###
-
-<img src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 ### 🖥️ Sobre mí
 
 <div align="center">
-  
-```
+
+```text
 ╔══════════════════════════════════════════════════════════════╗
-║  🎯 Junior FullStack Developer                              ║
-║  🐧 Entusiasta de Linux y sistemas personalizados           ║
-║  🔐 Explorando el mundo de la Ciberseguridad                ║
-║  ⚡ Siempre aprendiendo algo nuevo                          ║
+║  🎯 Junior FullStack Developer                               ║
+║  🐧 Entusiasta de Linux y sistemas personalizados            ║
+║  🔐 Explorando el mundo de la Ciberseguridad                 ║
+║  ⚡ Siempre aprendiendo algo nuevo                           ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-
 </div>
 
----
-
-### 🛠️ Tech Stack
+###🛠️ Tech Stack
 
 <div align="center">
 
-**Frontend**
-<br/>
+Frontend
+
+
 <img src="https://skillicons.dev/icons?i=react,angular,typescript,javascript,html,css,tailwind,bootstrap&perline=8" />
 
-**Backend**
-<br/>
+Backend
+
+
 <img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres,mysql&perline=8" />
 
-**Tools & Others**
-<br/>
+Tools & Others
+
+
 <img src="https://skillicons.dev/icons?i=linux,bash,git,docker&perline=5" />
 
 </div>
-
----
-### 🔥 Streak
+🔥 Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriqueejeda&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enriqueejeda&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
 </div>
-
----
-### 🔝 Top Contributed Repo
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=enrqiueejeda)](https://github.com/enriqueejeda/github-contribution-stats/)
-
----
-
-### 🐧 Linux & Sistemas
+🔝 Top Contributed Repo
 
 <div align="center">
+<a href="https://www.google.com/search?q=https://github.com/enriqueejeda">
+<img src="https://www.google.com/search?q=https://github-contribution-stats.vercel.app/api/%3Fusername%3Denriqueejeda" alt="Contribution Stats"/>
+</a>
+</div>
+🐧 Linux & Sistemas
 
-| 💻 Lo que hago con Linux | 🖥️ Terminal | 🔧 Sistemas |
-|---|---|---|
-| Montar mis propios sistemas personalizados | Me manejo bien | Entiendo cómo funciona |
-| Configurar entornos de desarrollo | Comodidad total | Aprendizaje continuo |
-| Experimentar con distros | Scripting bash | Docker |
+<div align="center">
+💻 Lo que hago con Linux	🖥️ Terminal	🔧 Sistemas
+Montar mis propios sistemas	Me manejo bien	Entiendo cómo funciona
+Configurar entornos de desarrollo	Comodidad total	Aprendizaje continuo
+Experimentar con distros	Scripting bash	Docker
 
 </div>
----
-
-### 🔐 Ciberseguridad
+🔐 Ciberseguridad
 
 <div align="center">
+Plaintext
 
-```
 ╔═══════════════════════════════════════════════════════════════╗
 ║  🟡 currently learning / explorando / capacitándome           ║
 ╚═══════════════════════════════════════════════════════════════╝
-```
+
+Interesado en el mundo de la seguridad informática, actualmente aprendiendo los fundamentos.
 
 </div>
-
-*Interesado en el mundo de la seguridad informática, actualmente aprendiendo los fundamentos.*
-
----
-
-### 📫 Conectemos
+📫 Conectemos
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="30" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="44" height="30" alt="codepen logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="30" alt="gmail logo"  />
+<a href="https://www.google.com/search?q=https://linkedin.com/in/tu-usuario" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
+</a>
+<a href="https://www.google.com/search?q=https://discordapp.com/users/tu-id-de-discord" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="30" alt="discord logo"  />
+</a>
+<a href="https://www.google.com/search?q=https://codepen.io/tu-usuario" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="44" height="30" alt="codepen logo"  />
+</a>
+<a href="mailto:tu-correo@gmail.com" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="30" alt="gmail logo"  />
+</a>
 </div>
 
----
-
 <div align="center">
+Plaintext
 
-```
 ┌─────────────────────────────────────────────────────────────┐
-│  Si te gusta lo que hago, no olvides darle ⭐ a mis repos  │
+│  Si te gusta lo que hago, no olvides darle ⭐ a mis repos   │
 └─────────────────────────────────────────────────────────────┘
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
