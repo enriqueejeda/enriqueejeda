@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique%20Ejeda%20(Lyk0s)%20Desarrollador%20FullStack&fontSize=20&animation=fadeIn&fontAlignY=35" width="100%"/>
 </h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/snake.svg" alt="Snake animation" />
-</div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/snake.svg" alt="Snake animation" />
 
 ---
 
