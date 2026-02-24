@@ -2,10 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hola,%20soy%20Enrique%20Ejeda%20(Lyk0s)%20Desarrollador%20FullStack&fontSize=20&animation=fadeIn&fontAlignY=35" width="100%"/>
 </h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=enriqueejeda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/enriqueejeda?label=Followers&style=social" alt="GitHub followers"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/enriqueejeda/enriqueejeda/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -36,11 +37,11 @@
 
 **Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,spring,express,fastapi,postgres,mysql&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,java,spring,postgres,mysql&perline=8" />
 
 **Tools & Others**
 <br/>
-<img src="https://skillicons.dev/icons?i=linux,bash,git,docker,nginx&perline=5" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,docker&perline=5" />
 
 </div>
 
@@ -73,7 +74,7 @@
 |---|---|---|
 | Montar mis propios sistemas personalizados | Me manejo bien | Entiendo cómo funciona |
 | Configurar entornos de desarrollo | Comodidad total | Aprendizaje continuo |
-| Experimentar con distros | Scripting bash | Docker & Nginx |
+| Experimentar con distros | Scripting bash | Docker |
 
 </div>
 ---
@@ -105,6 +106,12 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="44" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="44" height="30" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="44" height="30" alt="codepen logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="30" alt="gmail logo"  />
+</div>
 
 <div align="center">
 
