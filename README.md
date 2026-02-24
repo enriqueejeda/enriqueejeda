@@ -48,22 +48,17 @@
 </div>
 
 ---
-<div align="center">
-  
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=enriqueejeda&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=enriqueejeda&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enriqueejeda&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=enriqueejeda&limit=5&theme=dark&combine_all_yearly_contributions=true)
-</div>
-
----
 ### 🔥 Streak
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enriqueejeda&theme=radical&hide_border=true&background=0d1117" alt="Streak"/>
+</div>
+
+---
+### 🔝 Top Contributed Repo
+
+<div align="center">
+![](https://github-contributor-stats.vercel.app/api?username=enriqueejeda&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 ---
